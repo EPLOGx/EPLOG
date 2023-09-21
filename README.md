@@ -12,6 +12,6 @@
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=EPLOGx&theme=algolia&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EPLOGx&theme=algolia&show_icons=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EPLOGx&theme=algolia&show_icons=true)
 
 <p><img src="https://komarev.com/ghpvc/?username=eplogx&style=for-the-badge&color=36c7fc" alt=eplogx></p>
